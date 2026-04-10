@@ -204,11 +204,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Fitness Community** for inspiration and knowledge
 - **Open Source Community** for tools and libraries
 
-## 📞 Support
+## �‍💻 About Developer
 
-- 📧 Email: support@nagafit.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/nagafit-coach/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/nagafit-coach/discussions)
+**Hezkiel Kevin**
+
+Passionate about creating innovative AI-powered applications that make a difference. Specializing in modern web technologies, machine learning integration, and user-centric design.
+
+### Connect with me:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hezwell/)
+- 💻 [GitHub](https://github.com/hezkiel-kevin)
+- 📧 Email: kevin.hezwell@gmail.com
+
 
 ---
 
