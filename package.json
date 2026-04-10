@@ -9,6 +9,7 @@
     "base64-js": "^1.5.1",
     "bignumber.js": "^9.3.1",
     "buffer-equal-constant-time": "^1.0.1",
+    "cors": "^2.8.6",
     "data-uri-to-buffer": "^4.0.1",
     "debug": "^4.4.3",
     "dotenv": "^17.4.1",
